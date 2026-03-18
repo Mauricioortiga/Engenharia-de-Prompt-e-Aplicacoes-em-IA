@@ -1,0 +1,58 @@
+Exercício 01:
+ Genérico: Faça uma pergunta simples (Ex: "O que é Machine Learning?") e cole a
+Promptresposta.
+· Prompt Estruturado: Refaça o pedido usando a fórmula: Papel + Objetivo + Contexto +
+Formato (Ex: "Atue como um professor. Explique Machine Learning para um iniciante,
+usando analogia com esportes em 2 parágrafos."
+
+1. O que é Machine Learning?
+
+Machine Learning (Aprendizado de Máquina) é uma área da Inteligência Artificial que permite que sistemas aprendam padrões a partir de dados e tomem decisões ou façam previsões sem serem explicitamente programados para cada regra.
+Definição direta
+É um conjunto de técnicas onde um algoritmo:
+Recebe dados
+Aprende padrões nesses dados
+Usa esse aprendizado para prever ou decidir algo novo
+Exemplo simples:
+Imagine um sistema que identifica se um e-mail é spam:
+Você não programa todas as regras possíveis
+Você mostra milhares de e-mails (spam e não spam)
+O modelo aprende os padrões sozinho
+Principais tipos de Machine Learning
+Aprendizado Supervisionado
+Dados com resposta correta (rótulo)
+Ex: prever preço de casa, classificar imagens
+Aprendizado Não Supervisionado
+Dados sem rótulo
+O sistema encontra padrões sozinho
+Ex: agrupar clientes por comportamento
+Aprendizado por Reforço
+Aprende por tentativa e erro
+Recebe recompensas ou punições
+Ex: jogos, robótica
+Exemplos no mundo real
+Netflix recomendando filmes
+Google mostrando resultados de busca
+Assistentes virtuais (como Alexa)
+Reconhecimento facial
+Detecção de fraudes bancárias
+Resumindo em uma frase
+Machine Learning é ensinar o computador a aprender com dados ao invés de programar tudo manualmente.
+Se quiser, posso te mostrar um exemplo prático em Python (bem simples) pra você entender na prática.
+
+2. Prompt Estruturado: Refaça o pedido usando a fórmula: Papel + Objetivo + Contexto +
+Formato (Ex: "Atue como um professor. Explique Machine Learning para um iniciante,
+usando analogia com esportes em 2 parágrafos
+Pergunta: Sou um professor da área de IA, vou passar este conteúdo a meus alunos, estou precisando precisamente da explicação do Machine Learning,
+me informe o principal papel que ele pode proporcionar, o objetivo principal em questão, com um contexto direto sobre a resposta. Me mostre o principal formato em que se empenha, 
+escreva todo o conceito com 2 parágrafos.
+
+Machine Learning é um subcampo da Inteligência Artificial cujo papel central é transformar dados em modelos capazes de aprender padrões e tomar decisões ou fazer previsões sem programação explícita de regras. 
+Seu objetivo principal é minimizar o erro de generalização, ou seja, construir uma função que não apenas se ajuste aos dados observados, mas que também performe bem diante de novos dados. 
+Em termos práticos, isso significa extrair relações relevantes entre variáveis e utilizá-las para inferência sob incerteza, substituindo lógica fixa por aprendizado estatístico.
+
+O funcionamento do Machine Learning se estrutura em um formato essencial composto por representação, avaliação e otimização: primeiro, o problema é modelado em termos de variáveis e funções; 
+depois, define-se uma métrica ou função de perda para medir desempenho; por fim, ajustam-se os parâmetros do modelo por métodos de otimização, como gradiente descendente. 
+Esse processo ocorre dentro de um pipeline padrão — coleta de dados, treinamento, validação e inferência — que permite ao sistema evoluir continuamente sua capacidade preditiva e decisória.
+
+
