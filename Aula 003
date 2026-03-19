@@ -1,1 +1,147 @@
+1. Escolha um problema de código simples ou 
+necessidade de documentação de um projeto pessoal:
+Pintar parede com tinta.
+2.Crie uma primeira iteração (vaga) e documente a resposta ruim.
 
+##                        Pergunta (Fácil):                        ##
+
+Preciso pintar uma parede com tinta branca.
+
+Resposta: 
+Certo — vamos direto ao ponto técnico.
+Para calcular corretamente a quantidade de tinta, preciso de pelo menos estas variáveis:
+Altura da parede (m)
+Largura da parede (m)
+Tipo de tinta (acrílica, látex/PVA, etc.)
+Número de demãos (normalmente 2 a 3)
+Sem isso, te passo o padrão profissional:
+📐 Fórmula básica
+Área da parede:
+A
+ˊ
+rea
+=
+largura
+×
+altura
+A
+ˊ
+rea=largura×altura
+🎨 Rendimento médio da tinta
+
+1 litro de tinta cobre 10 a 12 m² por demão
+
+Com 2 demãos → 5 a 6 m² por litro
+
+🔎 Exemplo prático
+
+Se sua parede for:
+
+10 m (largura) × 3 m (altura)
+
+Área:
+
+10
+×
+3
+=
+30
+ 
+𝑚
+2
+10×3=30m
+2
+
+Com 2 demãos:
+
+30
+÷
+5
+=
+6
+ 
+𝑙
+𝑖
+𝑡
+𝑟
+𝑜
+𝑠
+ 
+(
+aproximadamente
+)
+30÷5=6litros (aproximadamente)
+⚠️ Ajustes importantes
+
+Parede nova (reboco cru): consome mais tinta
+
+Parede já pintada clara → consumo normal
+
+Parede escura → pode precisar de 3 demãos
+
+✅ Regra segura
+
+Sempre compre 10% a mais para evitar falta:
+
+No exemplo → cerca de 6,5 a 7 litros
+
+Se quiser, me diga:
+
+altura da parede
+
+se já está pintada ou não
+
+e eu te dou o cálculo exato e otimizado (sem desperdício).
+
+
+
+##                        Pergunta média (Média):                        ##
+
+Preciso pintar uma parede de 20m de altura por 20m de comprimento com tinta branca.
+
+Resposta:
+Vamos direto ao cálculo:
+
+1. Área da parede
+
+Altura × comprimento =
+20 m × 20 m = 400 m²
+
+2. Rendimento da tinta
+
+Em média, uma tinta rende 10 m² por litro (isso pode variar por marca, superfície e diluição).
+
+3. Quantidade de tinta (1 demão)
+
+400 ÷ 10 = 40 litros
+
+4. Considerando 2 demãos (recomendado)
+
+40 × 2 = 80 litros
+
+Resultado final:
+
+1 demão: ~40 litros
+
+2 demãos: ~80 litros (ideal para acabamento uniforme)
+
+Se quiser, posso calcular quantas latas comprar (ex: 18L, 3,6L etc.) ou ajustar com base na marca da tinta que você pretende usar.
+
+##                        Pergunta difícil                        ##
+
+Sou mestre de obras com profundo conhecimento em construção civil, preciso pintar uma parede que tem 20m de comprimento
+e 20m de altura, não é necessário explicações além do que estou pedindo, quero saber quanto faz 1L de tinta para 1m² de parede,
+resuma em 2 paragrafos ao máximo.
+
+Resposta:
+
+O rendimento médio da tinta varia conforme o tipo e a superfície, mas, 
+de forma padrão na construção civil, 1 litro de tinta cobre aproximadamente 
+de 6 a 10 m² por demão em parede lisa. 
+Para efeito técnico direto, utiliza-se frequentemente o valor intermediário de 1 L
+para 8 m².
+Isso implica que 1 m² consome cerca de 0,125 L de tinta por demão. 
+Em superfícies mais porosas ou com reboco novo, esse consumo pode aumentar,
+enquanto em paredes já seladas ou com massa corrida tende a se manter dentro 
+desse padrão.
+  
