@@ -1,6 +1,9 @@
 Curso: Ciências da Computação
+
 Primeiro semestre
+
 Disciplina: Engenharia de Prompt e Aplicações em IA.
+
 Professora: Kadidja Valeria Reginaldo de Oliveira
 
 Este repositório é dedicado à disciplina de **Engenharia de Prompt e Aplicações em Inteligência Artificial**.
