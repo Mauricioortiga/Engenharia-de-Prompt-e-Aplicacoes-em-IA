@@ -8,18 +8,23 @@
 
 Este repositório é dedicado à disciplina de **Engenharia de Prompt e Aplicações em Inteligência Artificial**.
 
-A proposta segue uma abordagem dinâmica, com material de apoio direcionado para aplicações práticas em IA.
+A capacidade de conversar efetivamente com sistemas de IA é o que separa os profissionais comuns dos inovadores.
+Entender como extrair o máximo potencial dessas ferramentas é um diferencial.
+É fundamental compreender sobre:
+Controlar
+Direcionar 
+Extrair valor real de modelos de IA de forma estratégica.
 
-## 🎯 Objetivo
+**Objetivo:**
 
 Explorar técnicas e metodologias para:
-- Projetar prompts de forma eficiente  
-- Otimizar interações com modelos de linguagem  
-- Avaliar a qualidade das respostas geradas  
+1. Projetar prompts de forma eficiente  
+2. Otimizar interações com modelos de linguagem  
+3. Avaliar a qualidade das respostas geradas  
 
-## 🚀 Foco
+**Foco:**
 
 Transformar ideias em instruções claras e eficazes, capazes de gerar respostas:
-- Úteis  
-- Criativas  
-- Confiáveis  
+1. Úteis
+2. Criativas  
+3. Confiáveis  
