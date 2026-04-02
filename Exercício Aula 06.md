@@ -100,7 +100,8 @@ Crie um codigo funcional que calcule a media de notas de um aluno(use apenas pyt
 n = [float(x) for x in input("Notas: ").split()]
 print(sum(n)/len(n) if n else 0)
 
-<img width="568" height="365" alt="image" src="https://github.com/user-attachments/assets/d67c1366-1b56-45d6-a939-e631e8113e1b" />
+<img width="565" height="363" alt="image" src="https://github.com/user-attachments/assets/1a0d7023-ba33-48da-89d6-ed850ccd9ca2" />
+
 
 
 
