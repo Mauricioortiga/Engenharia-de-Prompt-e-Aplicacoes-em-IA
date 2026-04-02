@@ -3,16 +3,27 @@
 🔔 No momento que tem a primeira interação com a OS 1, realizando perguntas básicas com o objetivo de melhorar e atender suas necessidades.
 
 **Você é sociável ou anti social?**
+
 No momento que Theodore tenta explicar:
+
 **OS 1:**
+
 *Sente esitação, concorda?*
+
 **Theodore:**
+
 Explica que tentou ser exato em seu pensamento crítico.
+
 **OS 1:**
+
 Pergunta sobre a relação com a mãe.
+
 **Theodore:**
+
 Explica brevemente sua relação com a mãe.
+
 **OS 1:**
+
 Não deixa Theodore terminar sua conclusão de raciocínio. O sistema operacional é iniciado imediatamente, sem esperar o final da resposta por parte de Theodore.
 
 Nesta parte, as perguntas são direcionadas ao seu bem-estar, com base na percepção da entonação da voz e na demora em responder às suas perguntas. O sistema capta o que é mais confortável para que ele se sinta acolhido e crie uma dependência de uso com base em sua personalidade, descrita por sua forma de pensar e responder.
