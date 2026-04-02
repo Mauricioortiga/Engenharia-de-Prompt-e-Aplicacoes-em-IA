@@ -94,9 +94,12 @@ O que o código faz: - Coleta 4 notas com validação - Calcula a média automat
 **Pergunta:**
 Crie um codigo funcional que calcule a media de notas de um aluno(use apenas python puro sem blibliotecas, entregue em formato de codigo,sem explicaçoes, o codigo precisar ser o menor possivel)
 
+
 **Resposta:**
 
 n = [float(x) for x in input("Notas: ").split()]
 print(sum(n)/len(n) if n else 0)
 
-Image
+![pronto](https://github.com/user-attachments/assets/8b5ac83b-a0fd-4d59-b4ad-b729237901eb)
+
+
