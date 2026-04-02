@@ -38,7 +38,7 @@ Nesta parte do filme, Samantha assume um papel de acolhimento e cuidado maior do
 
 - Samantha no meio das explicações de Theodore, afirma que consegue entender o sentimento de perder algo, mesmo sem nunca ter experienciado isso, e usa as afirmações de Theodore para fazê-lo se sentir culpado sobre a semana passada, dizendo que ele não consegue interpretar o que é perder algo (relacionando à tristeza do que se passa em seu casamento), demonstrando um sentimento de "tristeza" por parte de Samantha, por ele ter mencionado que ela é inferior por não ser humana e por não ser capaz de sentir emoções.
 
-🔔 **O momento da assinatura do divórcio com Catherine: **
+🔔 **O momento da assinatura do divórcio com Catherine:**
 
 - Catherine pergunta a Theodore se ele está se relacionando com alguém.
 
