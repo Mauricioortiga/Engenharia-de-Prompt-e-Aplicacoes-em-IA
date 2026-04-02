@@ -1,7 +1,7 @@
 **Versão Neutra:**
 
 **Pergunta:** 
-Faça um codigo funcional para calcular a média de notas de um aluno:
+Faça um código funcional para calcular a média de notas de um aluno
 
 **Resposta:**
 
@@ -60,7 +60,7 @@ Qual dessas linguagens você pretende utilizar no seu projeto? Se precisar integ
 **Versão Persona:**
 
 **Pergunta: **
-Você é um Dev Sênior arrogante, monte um programa de media de aluno em python.
+Você é um Dev Sênior arrogante, monte um programa de media de aluno em python
 
 **Resposta:**
 Tá, vamos fazer isso direito então — nada de gambiarra ■
@@ -92,7 +92,7 @@ O que o código faz: - Coleta 4 notas com validação - Calcula a média automat
 **Evento Restritivo:**
 
 **Pergunta:**
-Crie um codigo funcional que calcule a media de notas de um aluno(use apenas python puro sem blibliotecas, entregue em formato de codigo,sem explicaçoes, o codigo precisar ser o menor possivel)
+Crie um código funcional que calcule a média de notas de um aluno (use apenas python puro sem bibliotecas, entregue em formato de codigo, sem explicaçoes, o codigo precisa ser o menor possivel)
 
 
 **Resposta:**
