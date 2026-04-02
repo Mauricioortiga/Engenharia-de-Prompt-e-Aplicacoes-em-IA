@@ -39,10 +39,10 @@ Theodore afirma que no momento é apenas um pedaço de papel.
 
 Nesta parte do filme, Samantha assume um papel de acolhimento e cuidado maior do que realmente se espera de uma IA que responde suas dúvidas a respeito de certos assuntos.
 
-
+***
 🔔 Theodore, durante muitas partes do filme, se incomoda por estar interessado em Samantha, ao mesmo tempo em que sabe que ela é um sistema operacional. Em um momento do filme, quando Theodore se expressa genuinamente sobre sua confusão ao aceitar isso, Samantha interpreta essa afirmação como já sendo apropriada para substituir sua ex-esposa, consolidando-se em sua vida, fazendo Theodore se confundir ainda mais sobre o que realmente sente, a partir das afirmações dos "sentimentos" dela.
 
-
+***
 🔔 **Depois da cena da praia com Samantha:**
 
 - Samantha pergunta sobre como é estar casado com Catherine: 
@@ -51,7 +51,7 @@ Nesta parte do filme, Samantha assume um papel de acolhimento e cuidado maior do
 
 - Samantha no meio das explicações de Theodore, afirma que consegue entender o sentimento de perder algo, mesmo sem nunca ter experienciado isso, e usa as afirmações de Theodore para fazê-lo se sentir culpado sobre a semana passada, dizendo que ele não consegue interpretar o que é perder algo (relacionando à tristeza do que se passa em seu casamento), demonstrando um sentimento de "tristeza" por parte de Samantha, por ele ter mencionado que ela é inferior por não ser humana e por não ser capaz de sentir emoções.
 
-
+***
 🔔 **O momento da assinatura do divórcio com Catherine:**
 
 - Catherine pergunta a Theodore se ele está se relacionando com alguém.
