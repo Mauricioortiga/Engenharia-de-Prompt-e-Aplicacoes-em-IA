@@ -67,7 +67,8 @@ Paul rebate dizendo que é uma surpresa para ela, não para ele, por entender qu
 
 Samantha responde:
 
-Ela diz que no início se preocupava com a necessidade de ter um corpo, mas afirma que isso já não é essencial para ela, pois acredita que cresce de uma forma que seria impossível se fosse um ser humano. Não se vê restrita, podendo estar em vários lugares simultaneamente, sem estar presa ao tempo e ao espaço de um corpo que, com o tempo, inevitavelmente morreria.
+Relata que no início se preocupava com a necessidade de ter um corpo, mas afirma que isso já não é essencial para ela, pois acredita que cresce de uma forma que seria impossível se fosse um ser humano. Não se vê restrita, podendo estar em vários lugares simultaneamente, sem estar presa ao tempo e ao espaço de um corpo que, com o tempo, inevitavelmente morreria.
+
 Esta afirmação gerou constrangimento para todos e só foi percebido depois que ouviu a resposta do que Paul respondeu.
 
 🔔 Samantha reúne todas as cartas de Theodore e seleciona as melhores para enviá-las a uma editora sem o consentimento dele, o que o deixa visivelmente incomodado. Mesmo que a declaração final da reposta tenha sido interpretado positivamente por ele, a frustração de Theodore inicialmente em saber que ela tenha feito esta decisão de enviar suas cartas foi evidente.
