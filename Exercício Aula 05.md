@@ -28,7 +28,7 @@ Não deixa Theodore terminar sua conclusão de raciocínio. O sistema operaciona
 
 Nesta parte, as perguntas são direcionadas ao seu bem-estar, com base na percepção da entonação da voz e na demora em responder às suas perguntas. O sistema capta o que é mais confortável para que ele se sinta acolhido e crie uma dependência de uso com base em sua personalidade, descrita por sua forma de pensar e responder.
 
--
+***
 🔔 Theodore em sua primeira cena deitado informa sobre o seu casamento com Catherine, sobre como sente saudade dela e as implicações que relacionamentos afetivos costumam ter:
 
 Samantha pergunta sobre mais detalhes:
