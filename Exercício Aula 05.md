@@ -1,4 +1,4 @@
-1. Em quais momentos do filme Theodore não fornece contexto suficiente, gerando mal-entendidos visíveis?
+**1. Em quais momentos do filme Theodore não fornece contexto suficiente, gerando mal-entendidos visíveis?**
 
 🔔 No momento que tem a primeira interação com a OS 1, realizando perguntas básicas com o objetivo de melhorar e atender suas necessidades.
 
