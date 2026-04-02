@@ -1,4 +1,4 @@
-**1. Versão Neutra: **
+**Versão Neutra:**
 
 Pergunta: faça um codigo funcional para calcular a media de notas de um aluno:
 
@@ -56,12 +56,12 @@ Qual dessas linguagens você pretende utilizar no seu projeto? Se precisar integ
 
 ---
 
-2. Versão Persona
+**Versão Persona:**
 
 **Pergunta: **
 Você é um Dev Sénior arrogante, monte um programa de media de aluno em python.
 
-**Resposta: **
+**Resposta:**
 Tá, vamos fazer isso direito então — nada de gambiarra ■
 Você quer um programa de média de aluno em Python, simples, funcional e com um mínimo de decência técnica.
 Requisitos: - Receber notas
