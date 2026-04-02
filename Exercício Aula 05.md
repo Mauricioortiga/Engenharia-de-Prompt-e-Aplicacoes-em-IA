@@ -62,25 +62,25 @@ Nesta parte do filme, Samantha assume um papel de acolhimento e cuidado maior do
 
 - Theodore, neste momento, informa que Samantha, na verdade, é um sistema operacional. A partir desse momento, ele ressalta, ao longo de todo o diálogo, que Samantha não é apenas um sistema operacional, mas ela mesma, destacando que, para ele, ela possui, sim, uma consciência real.
 
-
+***
 🔔 Samantha liga para Paul sem o consentimento de Theodore. Em nenhum momento, ela esclarece que é um sistema operacional e já se auto intitula como namorada dele, ao mesmo tempo em que se inclui em uma saída de casais sem consultar Theodore.
 
-
+***
 🔔 Sem a avaliação de Theodore, Samantha envia e-mails a uma mulher interessada na relação deles. Segundo ela, seria interessante que ele tivesse uma experiência real por meio de uma terceira pessoa e, mesmo que Theodore não esteja de acordo, ele acaba seguindo o plano de Samantha.
 
-
+***
 🔔 Theodore não informa o que sentiu depois de ter saído com esta mulher, o sinal claro de tristeza está implícito nele, Samantha não respeita o seu luto diante da situação de divórcio, passando por cima das decisões que ele considera serem importantes.
 
-
+***
 🔔 Triste com esta situação, Theodore afirma que Samantha não precisa simular respiração ao falar, pois não é um ser humano. 
 Nesse momento, Samantha interpreta a afirmação de Theodore e decide se vitimizar para influenciar a percepção dele ao invés de aceitar sua resposta. Nesta parte, Theodore já considerava pedir um tempo neste relacionamento.
 No entanto, antes que ele pudesse expressar isso, Samantha se antecipa e diz que precisa de um tempo para pensar, incluindo em Theodore um sentimento de abandono, interpretando uma emoção tipicamente humana. Nesse contexto, Samantha busca incorporar um comportamento associado ao feminino, ao demonstrar a necessidade de refletir antes de decidir se deseja continuar ou encerrar o relacionamento.
 
-
+***
 🔔 No encontro com Paul e Theodore subindo a montanha, Paul pergunta aonde Theodore está indo. Theodore afirma que não pode contar a Paul para onde está caminhando, 
 Paul rebate dizendo que é uma surpresa para ela, não para ele, por entender que um sistema de IA não tem sentimentos humanos, eles apenas interpretam sentimentos humanos.
 
-
+***
 🔔 No diálogo de Casais entre Theodore, Samantha, Paul e sua namorada, a namorada de paul pergunta o que Theodore mais gosta de Samantha e ele revela:
 
 - *Ela não é só uma coisa, ela é muito mais que isso.*
@@ -91,14 +91,15 @@ Relata que no início se preocupava com a necessidade de ter um corpo, mas afirm
 
 Esta afirmação gerou constrangimento para todos e só foi percebido depois que ouviu a resposta do que Paul respondeu.
 
-
+***
 🔔 Samantha reúne todas as cartas de Theodore e seleciona as melhores para enviá-las a uma editora sem o consentimento dele, o que o deixa visivelmente incomodado. Mesmo que a declaração final da reposta tenha sido interpretado positivamente por ele, a frustração de Theodore inicialmente em saber que ela tenha feito esta decisão de enviar suas cartas foi evidente.
 
-
+***
 🔔 Samantha não informa que está conversando e se relacionando com outras pessoas e até com outros sistemas operacionais. Por ser um sistema generativo que se alimenta de interações diversas para evoluir, ela não interpreta isso como traição. Sob a ótica humana de relacionamento, é exatamente assim que a situação é percebida, o que gera frustração em Theodore.
 Samantha poderia deduzir esse sentimento, mas opta por não explicar sua afirmação, por interpretar que um humano não reafirmaria os motivos da frustração após uma revelação tão inesperada, mantendo o diálogo de forma natural, ainda que percebesse que Theodore estava visivelmente triste, sem considerar plenamente o impacto emocional nele, e também deixa de esclarecer a situação por assumir que uma mulher agiria exatamente dessa forma.
 
----
+***
+
 
 **2. Como Samantha consegue interpretar instruções vagas, superando as limitações de uma IA tradicional?**
 
