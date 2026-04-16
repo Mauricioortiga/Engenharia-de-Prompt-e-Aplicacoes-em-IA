@@ -96,7 +96,7 @@ Esta afirmação gerou constrangimento para todos e só foi percebido por Samant
 
 ***
 🔔 Samantha não informa que está conversando e se relacionando com outras pessoas e até com outros sistemas operacionais. Por ser um sistema generativo que se alimenta de diversas interações para evoluir, ela não interpreta isso como traição. Sob a ótica humana de relacionamento, é exatamente assim que a situação é percebida, o que gera frustração em Theodore.
-Samantha poderia deduzir esse sentimento, mas opta por não explicar sua afirmação, por interpretar que um humano não reafirmaria os motivos da frustração após uma revelação tão inesperada, mantendo o diálogo de forma natural, ainda que percebesse que Theodore estava visivelmente triste, sem considerar plenamente o impacto emocional nele, e também deixa de esclarecer a situação por assumir que uma mulher confiante agiria exatamente dessa forma neste tipo de situação.
+Samantha poderia deduzir esse sentimento, mas opta por não explicar sua afirmação, por interpretar que um humano não reafirmaria os motivos da frustração após uma revelação tão inesperada, mantendo o diálogo de forma natural, ainda que percebesse que Theodore estava visivelmente triste, sem considerar plenamente o impacto emocional nele, e também deixa de esclarecer a situação por assumir que uma mulher confiante agiria exatamente dessa forma neste contexto.
 
 ***
 
