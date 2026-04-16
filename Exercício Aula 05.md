@@ -81,7 +81,7 @@ No entanto, antes que ele pudesse expressar isso, Samantha se antecipa e diz que
 Paul rebate dizendo que é uma surpresa para ela, não para ele, por entender que um sistema de IA não tem sentimentos humanos.
 
 ***
-🔔 No diálogo de Casais entre Theodore, Samantha, Paul e sua namorada, a namorada de paul pergunta o que Theodore mais gosta de Samantha e ele revela:
+🔔 No diálogo de Casais entre Theodore, Samantha, Paul e sua namorada, a namorada de Paul pergunta o que Theodore mais gosta de Samantha e ele revela:
 
 - *Ela não é só uma coisa, ela é muito mais que isso.*
 
@@ -89,14 +89,14 @@ Samantha responde:
 
 Relata que no início se preocupava com a necessidade de ter um corpo, mas afirma que isso já não é essencial para ela, pois acredita que cresce de uma forma que seria impossível se fosse um ser humano. Não se vê restrita, podendo estar em vários lugares simultaneamente, sem estar presa ao tempo e ao espaço de um corpo que, com o tempo, inevitavelmente morreria.
 
-Esta afirmação gerou constrangimento para todos e só foi percebido depois que ouviu a resposta do que Paul respondeu.
+Esta afirmação gerou constrangimento para todos e só foi percebido por Samantha depois que ouviu a resposta de Paul.
 
 ***
-🔔 Samantha reúne todas as cartas de Theodore e seleciona as melhores para enviá-las a uma editora sem o consentimento dele, o que o deixa visivelmente incomodado. Mesmo que a declaração final da reposta tenha sido interpretado positivamente por ele, a frustração de Theodore inicialmente em saber que ela tenha feito esta decisão de enviar suas cartas foi evidente.
+🔔 Samantha reúne todas as cartas de Theodore e seleciona as melhores para enviá-las a uma editora sem o consentimento dele, o que o deixa visivelmente incomodado. Mesmo que a declaração final da resposta tenha sido interpretado positivamente por ele, a frustração de Theodore inicialmente em saber que ela tenha feito esta decisão de enviar suas cartas foi evidente.
 
 ***
-🔔 Samantha não informa que está conversando e se relacionando com outras pessoas e até com outros sistemas operacionais. Por ser um sistema generativo que se alimenta de interações diversas para evoluir, ela não interpreta isso como traição. Sob a ótica humana de relacionamento, é exatamente assim que a situação é percebida, o que gera frustração em Theodore.
-Samantha poderia deduzir esse sentimento, mas opta por não explicar sua afirmação, por interpretar que um humano não reafirmaria os motivos da frustração após uma revelação tão inesperada, mantendo o diálogo de forma natural, ainda que percebesse que Theodore estava visivelmente triste, sem considerar plenamente o impacto emocional nele, e também deixa de esclarecer a situação por assumir que uma mulher agiria exatamente dessa forma.
+🔔 Samantha não informa que está conversando e se relacionando com outras pessoas e até com outros sistemas operacionais. Por ser um sistema generativo que se alimenta de diversas interações para evoluir, ela não interpreta isso como traição. Sob a ótica humana de relacionamento, é exatamente assim que a situação é percebida, o que gera frustração em Theodore.
+Samantha poderia deduzir esse sentimento, mas opta por não explicar sua afirmação, por interpretar que um humano não reafirmaria os motivos da frustração após uma revelação tão inesperada, mantendo o diálogo de forma natural, ainda que percebesse que Theodore estava visivelmente triste, sem considerar plenamente o impacto emocional nele, e também deixa de esclarecer a situação por assumir que uma mulher confiante agiria exatamente dessa forma neste tipo de situação.
 
 ***
 
