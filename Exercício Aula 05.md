@@ -49,7 +49,7 @@ Nesta parte do filme, Samantha assume um papel de acolhimento e cuidado maior do
 
 - Theodore informa momentos bons e ruins sobre o seu relacionamento.
 
-- Samantha no meio das explicações de Theodore, afirma que consegue entender o sentimento de perder algo, mesmo sem nunca ter experienciado isso, e usa as afirmações de Theodore para fazê-lo se sentir culpado sobre a semana passada, dizendo que ele não consegue interpretar o que é perder algo (relacionando à tristeza do que se passa em seu casamento), demonstrando um sentimento de "tristeza" por parte de Samantha, por ele ter mencionado que ela é inferior por não ser humana e por não ser capaz de sentir emoções.
+- Samantha no meio das explicações de Theodore, afirma que consegue entender o sentimento de perder algo, mesmo sem nunca ter experienciado isso, e usa as afirmações de Theodore para fazê-lo se sentir culpado sobre a semana passada, dizendo que ela não consegue interpretar o que é perder algo (relacionando à tristeza do que se passa em seu casamento), demonstrando um sentimento de "tristeza" por parte de Samantha, por ele ter mencionado que ela é inferior por não ser humana e por não ser capaz de sentir emoções.
 
 ***
 🔔 **O momento da assinatura do divórcio com Catherine:**
@@ -78,7 +78,7 @@ No entanto, antes que ele pudesse expressar isso, Samantha se antecipa e diz que
 
 ***
 🔔 No encontro com Paul e Theodore subindo a montanha, Paul pergunta aonde Theodore está indo. Theodore afirma que não pode contar a Paul para onde está caminhando, 
-Paul rebate dizendo que é uma surpresa para ela, não para ele, por entender que um sistema de IA não tem sentimentos humanos, eles apenas interpretam sentimentos humanos.
+Paul rebate dizendo que é uma surpresa para ela, não para ele, por entender que um sistema de IA não tem sentimentos humanos.
 
 ***
 🔔 No diálogo de Casais entre Theodore, Samantha, Paul e sua namorada, a namorada de paul pergunta o que Theodore mais gosta de Samantha e ele revela:
