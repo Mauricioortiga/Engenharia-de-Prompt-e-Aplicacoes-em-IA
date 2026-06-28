@@ -1,3 +1,5 @@
+**Introdução:**
+
 A capacidade de conversar efetivamente com sistemas de IA é o que separa os profissionais comuns dos inovadores.
 Entender como extrair o máximo potencial dessas ferramentas é um diferencial.
 É fundamental compreender sobre:
