@@ -1,13 +1,3 @@
-**Curso:** Ciências da Computação
-
-**Disciplina:** Engenharia de Prompt e Aplicações em IA.
-
-**Professora:** Kadidja Valeria Reginaldo de Oliveira
-
-Este repositório é dedicado à disciplina de **Engenharia de Prompt e Aplicações em Inteligência Artificial**.
-
----
-
 A capacidade de conversar efetivamente com sistemas de IA é o que separa os profissionais comuns dos inovadores.
 Entender como extrair o máximo potencial dessas ferramentas é um diferencial.
 É fundamental compreender sobre:
