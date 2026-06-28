@@ -1,4 +1,4 @@
-**Projeto feito em Colaboração com: [Ezequiel Ferreira Lindoso](https://github.com/ezequiel-lindoso/Engenharia_de_Prompt_Aplicacoes_AI/tree/main/ProjetoModulo3)
+**Projeto feito em Colaboração com:** [Ezequiel Ferreira Lindoso](https://github.com/ezequiel-lindoso/Engenharia_de_Prompt_Aplicacoes_AI/tree/main/ProjetoModulo3)
 
 RGM: 48187828
 
